@@ -1,0 +1,2 @@
+DEFINE_NEAR_METHOD(ft_on_transfer)
+DEFINE_NEAR_METHOD(get_contract_data)
